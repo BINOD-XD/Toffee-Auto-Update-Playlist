@@ -114,7 +114,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750522107:KeyName=prod_linear:Signature=fHUJ1mlxfjTj266eeWwQoVizPRikIkpHUNIEqhMdZ331sWHYKbir_omuLWhXj13fRVAKDrQZw3ocJzrpuTvgDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://www.tsbi.in/wp-content/uploads/2019/09/clients_logo_zee_bollywood.png", Zee Bollywood
+#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png", Zee Bollywood
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750522107:KeyName=prod_linear:Signature=fHUJ1mlxfjTj266eeWwQoVizPRikIkpHUNIEqhMdZ331sWHYKbir_omuLWhXj13fRVAKDrQZw3ocJzrpuTvgDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8

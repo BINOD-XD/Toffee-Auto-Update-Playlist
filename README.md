@@ -19,7 +19,7 @@
          alt="Gitter">
   
   <a href="https://saythanks.io/to/riyadhossainshanto27@gmail.com">
-      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
+      <img src="https://img.shields.io/badge/Team_RXS-%E2%98%BC-green.svg">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
     <img src="https://img.shields.io/badge/App-Toffe_Live-purple">

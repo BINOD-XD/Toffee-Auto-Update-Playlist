@@ -60,6 +60,12 @@
 *  👆 Short Link : https://s.id/21HEV
 *  Enjoy 🫡
 
+<h1 align="center">
+ <a href="#"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/ns_player.jpg"></a>
+</h1>
+<h1 align="center">
+ <a href="#"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/ott_view.jpg"></a>
+</h1>
 
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Team+RXS)](https://git.io/typing-svg)
@@ -84,12 +90,12 @@
 
 # ✉️Find Me on 
 
-- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/binod-xd)
+- [![Github](https://img.shields.io/badge/Github-Binod XD-purple?style=for-the-badge&logo=github)](https://github.com/binod-xd)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-Byte_Capsule-green?style=for-the-badge&logo=gmail)](mailto:riyadhossainshanto27@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-Team RXS-green?style=for-the-badge&logo=gmail)](mailto:riyadhossainshanto27@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-Jeshan_Akand-blue?style=for-the-badge&logo=facebook)](https://t.me/teamrxs)
+- [![Facebook](https://img.shields.io/badge/Facebook-Team RXS-blue?style=for-the-badge&logo=facebook)](https://t.me/teamrxs)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/teamrxs)
+- [![Messenger](https://img.shields.io/badge/Messenger-Team RXS-orange?style=for-the-badge&logo=messenger)](https://t.me/teamrxs)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/teamrxs)
+- [![Telegram](https://img.shields.io/badge/Telegram-Team RXS-indigo?style=for-the-badge&logo=telegram)](https://t.me/teamrxs)

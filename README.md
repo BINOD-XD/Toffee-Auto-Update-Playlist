@@ -60,7 +60,10 @@
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
-*  👆 Short Link : https://s.id/21HEV
+*  👆 Short Link :
+```
+https://rb.gy/4izbtd
+```
 *  Enjoy 🫡
 
 <h1 align="center">

@@ -1,0 +1,44 @@
+name: Update Toffee Channels
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-toffee:
+    runs-on: ubuntu-latest
+
+    env:
+      TOFFEE_ZIP_PASSWORD: ${{ secrets.TOFFEE_ZIP_PASSWORD }}
+      TOFFEE_TOKEN: ${{ secrets.TOFFEE_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install required tools
+        run: |
+          sudo apt update
+          sudo apt install -y p7zip-full python3-pip
+          pip install requests
+
+      - name: Unzip AES256 protected script
+        run: |
+          mkdir tmp_script
+          7z x update_toffee.zip -p"$TOFFEE_ZIP_PASSWORD" -otmp_script
+
+      - name: Run Python script
+        run: |
+          python3 tmp_script/update_toffee.py
+
+      - name: Remove script after execution
+        run: |
+          rm -rf tmp_script
+
+      - name: Commit and push updated files if changed
+        run: |
+          git config user.name "ToffeeBot"
+          git config user.email "toffeebot@example.com"
+          git add toffee_OTT_Navigator.m3u toffee_NS_Player.m3u
+          git diff --cached --quiet || (git commit -m "🔁 Auto update Toffee streams" && git push)

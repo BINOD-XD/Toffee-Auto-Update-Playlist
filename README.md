@@ -61,7 +61,7 @@
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
 *  👆 Short Link :
    ```
-   https://rb.gy/4izbtd
+   https://shorturl.at/czHW8
    ```
 *  Enjoy 🫡
 

@@ -52,7 +52,7 @@
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u)
 * 👆 Short Link :
   ```
-  https://rb.gy/4ni718
+  https://shorturl.at/heUyP
   ```
 *  Enjoy 😊
 

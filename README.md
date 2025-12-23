@@ -44,7 +44,62 @@
 * In JSON Format
 * You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
+## 🕹️How To Use
+**For Developers**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json)**
+* Use Get Request
 
+
+
+
+```python
+import requests
+#Get updated the Link and Headers 
+link="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"
+request=requests.get(link).json()
+
+name=request["name"]
+owner=request["owner"]
+channels_amount=request["channels_amount"]
+channels_data=request["channels"]
+for channel in channels_data:
+    link=channel["link"]
+    headers=channel["headers"]
+    
+
+
+print("✓ channel link :"+link)
+print("✓ channel Headers :",headers)
+#Request Toffee Main Api With Headers
+request_server=requests.get(link,headers=headers)
+#Get the Live m3u3 Link
+print("✓ Response From Toffee Server : "+request_server.text)
+
+
+```
+
+> **Note**
+> I'm using Python 3.You can use other Languages.
+
+# 🖥️Optput
+> ✓ channel link :https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
+✓ channel Headers : {'Host': 'bldcmprod-cdn.toffeelive.com', 'cookie': 'Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1698080619:KeyName=prod_linear:Signature=RY1grOoqltoX1yPO4WMzHCQk2xIp1zGvi03K2bdefb-_QErIqzbuBwytBNV5HiSHSsDslAS2gJsuRFT_MnNJCQ'}
+
+> ✓ Response From Toffee Server :
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
+../slang/comedy_central_hd_576/comedy_central_hd_576.m3u8?bitrate=1000000&channel=comedy_central_hd_576&gp_id=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
+../slang/comedy_central_hd_320/comedy_central_hd_320.m3u8?bitrate=768000&channel=comedy_central_hd_320&gp_id=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
+../slang/comedy_central_hd_160/comedy_central_hd_160.m3u8?bitrate=512000&channel=comedy_central_hd_160&gp_id=
+
+
+> [Program finished]
+<h1 align="center">
+ <a href="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/main/toffee_channel_data.json"><img src="https://i.postimg.cc/YCBvB7vC/IMG-20251223-092632.jpg"></a>
+</h1>
 
 # 🎬How To Play
 **📱Android**

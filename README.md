@@ -112,7 +112,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 *  Enjoy 😊
 
 **🖥️ Android TV**
-* Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
+* Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
 *  👆 Short Link :
    ```

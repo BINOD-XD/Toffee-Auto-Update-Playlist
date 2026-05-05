@@ -2,7 +2,7 @@ name: Update Toffee Channels
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
 permissions:
@@ -17,65 +17,28 @@ jobs:
       TOFFEE_TOKEN: ${{ secrets.TOFFEE_TOKEN }}
 
     steps:
-      # =========================
-      # 📥 Checkout
-      # =========================
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      # =========================
-      # ⚡ Cache Playwright (FAST)
-      # =========================
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}
-
-      # =========================
-      # 🛠️ Install Dependencies (FIXED)
-      # =========================
       - name: Install required tools
         run: |
-          sudo rm -rf /var/lib/apt/lists/*
-          sudo apt clean
-
-          # retry apt update (fix mirror issue)
-          for i in 1 2 3; do
-            sudo apt update && break || sleep 5
-          done
-
+          sudo apt update
           sudo apt install -y p7zip-full python3-pip
+          pip install requests
 
-          # python deps
-          pip install --upgrade pip
-          pip install requests playwright
-
-          # playwright browser (NO --with-deps)
-          playwright install chromium
-
-      # =========================
-      # 🔓 Unzip Script
-      # =========================
       - name: Unzip AES256 protected script
         run: |
           mkdir -p tmp_script
           7z x update_toffee.zip -p"$TOFFEE_ZIP_PASSWORD" -otmp_script
 
-      # =========================
-      # ▶️ Run Script
-      # =========================
       - name: Run Python script
         env:
           TOFFEE_TOKEN: ${{ secrets.TOFFEE_TOKEN }}
         run: |
           python3 tmp_script/update_toffee.py
 
-      # =========================
-      # 🔍 Debug Outputs
-      # =========================
       - name: Debug outputs
         run: |
           echo "PWD: $(pwd)"
@@ -90,16 +53,11 @@ jobs:
             fi
           done
 
-      # =========================
-      # 🧹 Cleanup
-      # =========================
       - name: Remove script after execution
         run: |
           rm -rf tmp_script
 
-      # =========================
-      # 📦 Upload Artifact
-      # =========================
+      # (Optional) Artifact হিসেবে রেখে দাও—যদি commit fail হলেও ডাউনলোড করতে পারো
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4
         with:
@@ -109,9 +67,6 @@ jobs:
             toffee_NS_Player.m3u
             toffee_channel_data.json
 
-      # =========================
-      # 🚀 Commit Changes
-      # =========================
       - name: Commit and push updated files if changed
         run: |
           git config user.name "ToffeeBot"

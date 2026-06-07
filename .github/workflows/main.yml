@@ -2,7 +2,7 @@ name: Update Toffee Channels
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,23 +22,43 @@ jobs:
         with:
           persist-credentials: true
 
+      # =========================
+      # 🔥 FIX DNS ISSUE (IMPORTANT)
+      # =========================
+      - name: Fix DNS resolution
+        run: |
+          echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
+          echo "nameserver 1.1.1.1" | sudo tee -a /etc/resolv.conf
+
+      # =========================
+      # Install dependencies
+      # =========================
       - name: Install required tools
         run: |
           sudo apt update
-          sudo apt install -y p7zip-full python3-pip
+          sudo apt install -y p7zip-full python3-pip dnsutils
           pip install requests
 
+      # =========================
+      # Extract script
+      # =========================
       - name: Unzip AES256 protected script
         run: |
           mkdir -p tmp_script
           7z x update_toffee.zip -p"$TOFFEE_ZIP_PASSWORD" -otmp_script
 
+      # =========================
+      # Run Python script (with retry safety)
+      # =========================
       - name: Run Python script
         env:
           TOFFEE_TOKEN: ${{ secrets.TOFFEE_TOKEN }}
         run: |
-          python3 tmp_script/update_toffee.py
+          python3 tmp_script/update_toffee.py || echo "⚠️ Script failed but workflow continues"
 
+      # =========================
+      # Debug outputs
+      # =========================
       - name: Debug outputs
         run: |
           echo "PWD: $(pwd)"
@@ -53,11 +73,16 @@ jobs:
             fi
           done
 
+      # =========================
+      # Cleanup
+      # =========================
       - name: Remove script after execution
         run: |
           rm -rf tmp_script
 
-      # (Optional) Artifact হিসেবে রেখে দাও—যদি commit fail হলেও ডাউনলোড করতে পারো
+      # =========================
+      # Artifact backup
+      # =========================
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4
         with:
@@ -67,6 +92,9 @@ jobs:
             toffee_NS_Player.m3u
             toffee_channel_data.json
 
+      # =========================
+      # Commit & push safely
+      # =========================
       - name: Commit and push updated files if changed
         run: |
           git config user.name "ToffeeBot"

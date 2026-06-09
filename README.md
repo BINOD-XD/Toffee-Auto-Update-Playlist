@@ -111,9 +111,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
   ```
 *  Enjoy 😊
 
-**📱Android & Android TV🖥️**
-
- **Not Stable**
+**📱Android & Android TV🖥️** **(Not Stable)**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee.m3u)
 *  👆 Short Link :

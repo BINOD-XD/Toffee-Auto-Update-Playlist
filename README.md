@@ -104,21 +104,30 @@ print("✓ Response From Toffee Server : "+request_server.text)
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u)
+* Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee_ns.json)
 * 👆 Short Link :
   ```
-  https://shorturl.at/heUyP
+  https://shortlink.uk/1wI6w
   ```
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
+* Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee.m3u)
 *  👆 Short Link :
    ```
-   https://shorturl.at/czHW8
+   https://shortlink.uk/1wI5J
    ```
 *  Enjoy 🫡
+*  Not Stable
+
+**📊Toffee channel data json**
+* Full channel data with headers
+* Toffee channel data json [json Link](https://toffee-stream-keeper.lovable.app/toffee_data.json)
+*  👆 Short Link :
+   ```
+   https://shortlink.uk/1wI7c
+   ```  
 
 <h1 align="center">
  <a href="#"><img src="https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/ns_player.jpg"></a>

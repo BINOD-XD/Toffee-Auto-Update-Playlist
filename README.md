@@ -105,7 +105,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 **📱Android & Android TV🖥️**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee_ns.json)
-* 👆 Short Link :
+* 👇 Short Link :
   ```
   https://shortlink.uk/1wI6w
   ```
@@ -114,7 +114,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 **📱Android & Android TV🖥️** **(Not Stable)**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee.m3u)
-*  👆 Short Link :
+*  👇 Short Link :
    ```
    https://shortlink.uk/1wI5J
    ```
@@ -123,7 +123,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 **📊Toffee channel data json**
 * Full channel data with headers
 * Toffee channel data json [json Link](https://toffee-stream-keeper.lovable.app/toffee_data.json)
-*  👆 Short Link :
+*  👇 Short Link :
    ```
    https://shortlink.uk/1wI7c
    ```  

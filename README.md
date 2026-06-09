@@ -102,7 +102,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 </h1>
 
 # 🎬How To Play
-**📱Android**
+**📱Android & Android TV🖥️**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee_ns.json)
 * 👆 Short Link :
@@ -111,8 +111,9 @@ print("✓ Response From Toffee Server : "+request_server.text)
   ```
 *  Enjoy 😊
 
-**🖥️ Android TV**
-**Not Stable**
+**📱Android & Android TV🖥️**
+
+ **Not Stable**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee.m3u)
 *  👆 Short Link :

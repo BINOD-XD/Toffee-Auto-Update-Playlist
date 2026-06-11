@@ -107,13 +107,13 @@ print("✓ Response From Toffee Server : "+request_server.text)
 * Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee_ns.json)
 * 👇 Short Link :
   ```
-  https://shortlink.uk/1wI6w
+  https://rb.gy/mvllc9
   ```
 *  Enjoy 😊
 
 **📱Android & Android TV🖥️** **(Not Stable)**
 * Use OTT Navigator [Download](https://d.apkpure.com/b/APK/studio.scillarium.ottnavigator?version=latest)
-* Add This PlayList [Playlist Link](https://toffee-stream-keeper.lovable.app/toffee.m3u)
+* Add This PlayList [Playlist Link](https://rb.gy/3bjg7y)
 *  👇 Short Link :
    ```
    https://shortlink.uk/1wI5J
@@ -122,7 +122,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 **📊Toffee channel data json**
 * Full channel data with headers
-* Toffee channel data json [json Link](https://toffee-stream-keeper.lovable.app/toffee_data.json)
+* Toffee channel data json [json Link](https://rb.gy/4rzs2n)
 *  👇 Short Link :
    ```
    https://shortlink.uk/1wI7c

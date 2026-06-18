@@ -2,7 +2,7 @@ name: Update Toffee Channels
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '*/30 * * * *' # Runs every hour
   workflow_dispatch:
 
 permissions:

@@ -2,15 +2,15 @@
   "name": "Toffee App All Channel Link with Headers",
   "owner": "BINOD-XD",
   "channels_amount": 79,
-  "updated_on": "21-06-2026 on 04:38:59 PM ☀️",
+  "updated_on": "21-06-2026 on 07:06:21 PM 🌙",
   "channels": [
     {
       "category_name": "LIVE",
       "name": "TOFFEE Sports VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -20,10 +20,10 @@
     {
       "category_name": "LIVE",
       "name": "TOFFEE Movies VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -33,10 +33,10 @@
     {
       "category_name": "LIVE",
       "name": "TOFFEE Dramas VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -46,10 +46,10 @@
     {
       "category_name": "News Channel",
       "name": "CNN VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -59,10 +59,10 @@
     {
       "category_name": "News Channel",
       "name": "Somoy TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -72,10 +72,10 @@
     {
       "category_name": "News Channel",
       "name": "Independent TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -85,10 +85,10 @@
     {
       "category_name": "News Channel",
       "name": "Desh TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -98,10 +98,10 @@
     {
       "category_name": "News Channel",
       "name": "Jamuna TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -111,10 +111,10 @@
     {
       "category_name": "News Channel",
       "name": "ATN News",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -124,10 +124,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "ATN Bangla",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_bangla/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_bangla/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -137,10 +137,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Nexus TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -150,10 +150,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Movie Bangla",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -163,10 +163,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Mohona TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -176,10 +176,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Ananda TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -189,10 +189,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Bijoy TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -202,10 +202,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Global TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -215,10 +215,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Channel S",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -228,10 +228,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Bangla TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -241,10 +241,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Asian TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -254,10 +254,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Channel i",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -267,10 +267,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Ekhon TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -280,10 +280,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Rajdhani TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -293,10 +293,10 @@
     {
       "category_name": "বাংলাদেশী চ্যানেল",
       "name": "Islamic TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -306,10 +306,10 @@
     {
       "category_name": "News Channel",
       "name": "Ekattor TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -319,7 +319,7 @@
     {
       "category_name": "Sports Channels",
       "name": "BAN VS AUS",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -332,7 +332,7 @@
     {
       "category_name": "Sports Channels",
       "name": "FIFA WC Channel 1",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -345,7 +345,7 @@
     {
       "category_name": "Sports Channels",
       "name": "FIFA WC CHANNEL 2",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -358,7 +358,7 @@
     {
       "category_name": "Sports Channels",
       "name": "FIFA WC Channel 3",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -371,7 +371,7 @@
     {
       "category_name": "Sports Channels",
       "name": "FIFA WC Channel 4",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -384,7 +384,7 @@
     {
       "category_name": "Sports Channels",
       "name": "FIFA WC Channel 5",
-      "link": "https://ajkerweather.app/proxy?url=https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -397,10 +397,10 @@
     {
       "category_name": "Sports Channels",
       "name": "Euro Sport HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -410,10 +410,10 @@
     {
       "category_name": "Sports Channels",
       "name": "ICC Test Championship Highlights",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/icc_wtc_final/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/icc_wtc_final/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -423,10 +423,10 @@
     {
       "category_name": "Sports Channels",
       "name": "SONY SPORTS TEN 1 HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -436,10 +436,10 @@
     {
       "category_name": "Sports Channels",
       "name": "SONY SPORTS TEN 2 HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -449,10 +449,10 @@
     {
       "category_name": "Sports Channels",
       "name": "SONY SPORTS TEN 5 HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -462,10 +462,10 @@
     {
       "category_name": "Sports Channels",
       "name": "SONY TEN Cricket",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -475,7 +475,7 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 1",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-11/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/match-11/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -488,7 +488,7 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 2",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -501,7 +501,7 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 3",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1782122912~Starts=1782036512~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1782129600~Starts=1782043200~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=x06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -514,10 +514,10 @@
     {
       "category_name": "Kids",
       "name": "Cartoon Network HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -527,10 +527,10 @@
     {
       "category_name": "Kids",
       "name": "Cartoon Network",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -540,10 +540,10 @@
     {
       "category_name": "Kids",
       "name": "Pogo",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -553,10 +553,10 @@
     {
       "category_name": "Kids",
       "name": "Discovery Kids",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -566,10 +566,10 @@
     {
       "category_name": "Kids",
       "name": "SONY YAY VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -579,10 +579,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Zee Bangla VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -592,10 +592,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Zee Anmol",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -605,10 +605,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Zing",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -618,10 +618,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Hum TV",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -631,10 +631,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Hum Masala",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -644,10 +644,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Hum Sitarey",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -657,10 +657,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Sony Aat VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -670,10 +670,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "SONY ENTERTAINMENT TELEVISION HD VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -683,10 +683,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "SONY ENTERTAINMENT TELEVISION",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -696,10 +696,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "B4U Music VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -709,10 +709,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "SONY SAB HD VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -722,10 +722,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "Zee TV HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -735,10 +735,10 @@
     {
       "category_name": "Movie Channels",
       "name": "SONY MAX HD VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -748,10 +748,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Bangla Cinema",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -761,10 +761,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Bollywood",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -774,10 +774,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Action",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -787,10 +787,10 @@
     {
       "category_name": "Movie Channels",
       "name": "SONY MAX VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -800,10 +800,10 @@
     {
       "category_name": "Movie Channels",
       "name": "SONY PIX HD VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -813,10 +813,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Cafe",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -826,10 +826,10 @@
     {
       "category_name": "Movie Channels",
       "name": "B4U Movies VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -839,10 +839,10 @@
     {
       "category_name": "Movie Channels",
       "name": "SONY MAX 2 VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -852,10 +852,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Bangla Cinema VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -865,10 +865,10 @@
     {
       "category_name": "Movie Channels",
       "name": "Zee Cinema HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -878,10 +878,10 @@
     {
       "category_name": "Infotainment",
       "name": "TLC HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -891,10 +891,10 @@
     {
       "category_name": "Infotainment",
       "name": "TLC",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -904,10 +904,10 @@
     {
       "category_name": "Infotainment",
       "name": "Animal Planet",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -917,10 +917,10 @@
     {
       "category_name": "Infotainment",
       "name": "Animal Planet HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -930,10 +930,10 @@
     {
       "category_name": "Infotainment",
       "name": "SONY BBC EARTH HD VIP",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -943,10 +943,10 @@
     {
       "category_name": "Infotainment",
       "name": "Discovery HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -956,10 +956,10 @@
     {
       "category_name": "Infotainment",
       "name": "Discovery",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -969,10 +969,10 @@
     {
       "category_name": "Infotainment",
       "name": "Discovery Science",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -982,10 +982,10 @@
     {
       "category_name": "Infotainment",
       "name": "Discovery Turbo",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -995,10 +995,10 @@
     {
       "category_name": "Infotainment",
       "name": "Investigation Discovery HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -1008,10 +1008,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "&TV HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -1021,10 +1021,10 @@
     {
       "category_name": "Entertainment Channels",
       "name": "& Pictures HD",
-      "link": "https://ajkerweather.app/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782211126:KeyName=prod_linear:Signature=kg_QSGHwkQvo1uljcniVw3JGCaT104AKVK3rsg7vrqlLtKLrLa-4QkGEuglRWi1N3HjDI_q4AUTHOnsMINljDw",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782219959:KeyName=prod_linear:Signature=nKZ_DxPVqOcGjFqZA4xYW6SuL0u1S_Yb9Tve-zA0N9UStOKBKliIprHB6LoMF8aSPUWkz1CfBU79QNXAptSWAA",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"

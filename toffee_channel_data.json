@@ -1,8 +1,8 @@
 {
   "name": "Toffee App All Channel Link with Headers",
   "owner": "BINOD-XD",
-  "channels_amount": 80,
-  "updated_on": "22-07-2026 on 10:24:12 AM ☀️",
+  "channels_amount": 75,
+  "updated_on": "22-07-2026 on 01:10:32 PM ☀️",
   "channels": [
     {
       "category_name": "LIVE",
@@ -319,7 +319,7 @@
     {
       "category_name": "Sports Channels",
       "name": "BAN VS AUS",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_3000.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
         "cookie": "",
@@ -328,84 +328,6 @@
         "accept-encoding": "gzip"
       },
       "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "FIFA WC Channel 1",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%201.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "FIFA WC CHANNEL 2",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%202.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "FIFA WC Channel 3",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%203.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "FIFA WC Channel 4",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%204.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "FIFA WC Channel 5",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/FIFA%20WC%20Channel%205.png"
-    },
-    {
-      "category_name": "Sports Channels",
-      "name": "WC Match Recap",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/sst/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
-      "headers": {
-        "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
-        "user-agent": "okhttp/4.11.0",
-        "client-api-header": "YOUR_CLIENT_API_HEADER",
-        "accept-encoding": "gzip"
-      },
-      "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png"
     },
     {
       "category_name": "Sports Channels",
@@ -488,10 +410,10 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 1",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-11<?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
+      "link": "https://mprod-cdn.toffeelive.com/live/match-11/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20:Expires=1780480696:KeyName=:Signature=ce8ddFGElYxFkeJG8GyCzzOyf0V0_oCZ7XVY7tHOVpi-hmuoNft1gpi70w7dwxVvl4KdnTdZmnxvMIWOQwWQAw",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -501,10 +423,10 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 2",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
+      "link": "https://mprod-cdn.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20:Expires=1780480696:KeyName=:Signature=ce8ddFGElYxFkeJG8GyCzzOyf0V0_oCZ7XVY7tHOVpi-hmuoNft1gpi70w7dwxVvl4KdnTdZmnxvMIWOQwWQAw",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
@@ -514,15 +436,28 @@
     {
       "category_name": "Sports Channels",
       "name": "BFL Live 3",
-      "link": "https://prod-cdn01-live.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
+      "link": "https://mprod-cdn.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1784174100~Starts=1784166900~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiY2Q5YmUwNjEtMDUyNS00OWIwLTkxMjAtMGFmOGI4NGQ4NTk2In0~Signature=ChJKkqKXVR7vijjVTvFUobTBffErdaq5y8ZTVBq-JXq0i3pqV5mm9K2jBduTdY_9xb706FS8oiZl9itBTwIbCg",
       "headers": {
         "Host": "bldcmprod-cdn.toffeelive.com",
-        "cookie": "",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20:Expires=1780480696:KeyName=:Signature=ce8ddFGElYxFkeJG8GyCzzOyf0V0_oCZ7XVY7tHOVpi-hmuoNft1gpi70w7dwxVvl4KdnTdZmnxvMIWOQwWQAw",
         "user-agent": "okhttp/4.11.0",
         "client-api-header": "YOUR_CLIENT_API_HEADER",
         "accept-encoding": "gzip"
       },
       "logo": "https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png"
+    },
+    {
+      "category_name": "Sports Channels",
+      "name": "BFL Live 4",
+      "link": "https://mprod-cdn.toffeelive.com/live/match-18/index.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1784817225:KeyName=prod_linear:Signature=qdpzbOzlZ-rEFLT83astdYwU57Cgpdm4o-e0yerm2BLM_rd4TJ5MJam0HLDr3gVKa71Y0iC1cUYVBfQEKMktBA",
+        "user-agent": "okhttp/4.11.0",
+        "client-api-header": "YOUR_CLIENT_API_HEADER",
+        "accept-encoding": "gzip"
+      },
+      "logo": "https://assets-prod.services.toffeelive.com//Ey9jtJoBNnOkwJLWw06R/posters/4e83252b-223d-42a6-a56b-8598aa17e2e8.png"
     },
     {
       "category_name": "Kids",

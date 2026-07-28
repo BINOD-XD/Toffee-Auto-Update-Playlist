@@ -2,7 +2,7 @@ name: Update Toffee Channels
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
+    - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
 permissions:
@@ -37,7 +37,7 @@ jobs:
         env:
           TOFFEE_TOKEN: ${{ secrets.TOFFEE_TOKEN }}
         run: |
-          python3 tmp_script/update_toffee_brows.py
+          python3 tmp_script/update_toffee.py
 
       - name: Debug outputs
         run: |
